@@ -1,2 +1,5 @@
-# ros2-reinforcement-simulation
-ros2 gazebo
+# Issac-sim-reinforcement-simulation
+
+#Issacsymenv-based reinforcement learning simulations
+
+
